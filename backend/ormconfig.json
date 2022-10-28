@@ -1,0 +1,6 @@
+{
+    "type": "postgres",
+    "url": "postgres://postgres:password@localhost:5444/profile",
+    "entities": "dist/**/**/*.entity{.js,.ts}",
+    "synchronize": true
+  }
